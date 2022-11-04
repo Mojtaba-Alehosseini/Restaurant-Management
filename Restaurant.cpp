@@ -1,6 +1,6 @@
 //Mojtaba Alehoseini ; 9627723 ; Restaurant Project
 //Second Semester project for Advance Programming course
-//Password: Mojtaba
+//Password: mojtaba
 
 #include <iostream>
 #include <string.h>
